@@ -1,6 +1,6 @@
 # My name Vika #
 
-## I study in Neotology ##
+## I study in Netology ##
 
 Я живу в Волгограде, _люблю кофе и чай_
 
